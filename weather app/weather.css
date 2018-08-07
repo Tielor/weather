@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    
+}
+
+#container{
+    width: 100%;
+    min-height: 450px;
+    background: linear-gradient(#B10DC9
+, #001f3f);
+    margin: auto;
+    text-align: center;
+}
+#header{
+    margin-bottom: 20px;
+}
+#title{
+    margin-top: 20px;
+    font-family:cursive;
+}
+strong{
+    display: block;
+    margin-top: 30px;
+    font-size: 40px;
+}
+.low_High{
+    margin: 5px 10px;
+    display: inline-block;
+}
+#report{
+    margin-top: 15px;
+    font-size: 25px;
+    font-family:monospace;
+}
